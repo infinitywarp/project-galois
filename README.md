@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/infinitywarp/project-galois/blob/main/images/galois-art.png" alt="Project Galois"></a>
+ <img src="https://github.com/infinitywarp/project-galois/blob/main/images/galois-art.png" alt="Galois Art" width="250"></a>
 </p>
 
 <h3 align="center">Project Galois</h3>
